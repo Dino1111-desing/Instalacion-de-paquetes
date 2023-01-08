@@ -1,5 +1,5 @@
 # Instalacion-de-paquetes
-#Creda por dino xd
+#Creada por Andy xd
 
 
 instalacion de paquetes para usuarios novatos
